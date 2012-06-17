@@ -14,6 +14,7 @@ This is not really a **Roadmap** but a project list, we will prioritize later
 ----------------------------------------------------------------
 <dl>
 	<dt>Develop Core Functions</dt>
+		<dd>Snippet Manager</dd>
 		<dd>User Login/Registration</dd>	
 		<dd>Integration with phpbb (Per Alex Permission)</dd>	
 		<dd>Admin/Moderator/Owner Control</dd>
