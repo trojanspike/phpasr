@@ -14,7 +14,7 @@ This is not really a **Roadmap** but a project list, we will prioritize later
 ----------------------------------------------------------------
 > Develop Core Functions
 
->  	 User Login &Registration
+>  	 User Login & Registration
 
 >		 Integration with phpbb (Per Alex Permission)
 
