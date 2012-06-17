@@ -16,32 +16,43 @@ Develop Core Functions
 <dl>
 	<dt></dt>
 	<dd>
-				* User Login/Registration
-				* Integration with phpbb (Per Alex Permission)
-			* Admin/Moderator/Owner Control
+		* User Login/Registration
+				
+		* Integration with phpbb (Per Alex Permission)
+				
+		* Admin/Moderator/Owner Control
 	</dd>
 	
 	<dt>Snippet Repo/List</dt>
 	<dd>
 		* Categories
+
 		* Newest Snippets
+
 		* Most popular
+
 		* Favorite Snippets
 	</dd>
 	
 	<dt>Snippets</dt>
 	<dd>
 		* Snippet Code Display
+
 		* Highlighting like any code editor...
+
 		* Raw Snippet Feature
+
 		* Version Control
+
 		* User Comments
+
 		* Bug Tracker
 	</dd>
 	
 	<dt>Bug Tracker</dt>
 	<dd>
 		* Tracking numbers for each snippet
+
 		* User reports
 	</dd>
 	
