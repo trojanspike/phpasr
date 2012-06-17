@@ -8,7 +8,9 @@ phpacademy Snippet Repository
 Road Map
 =================================
 ----------------------------------------------------------------
+
 This is not really a **Roadmap** but a project list, we will prioritize later
+
 ----------------------------------------------------------------
 > Develop Core Functions
 
